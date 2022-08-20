@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bd39a0f9.css",
+    "main.js": "/static/js/main.247194f7.js",
+    "static/media/portfolio5.png": "/static/media/portfolio5.a82ae9a163c1ac5e3a07.png",
+    "static/media/me.png": "/static/media/me.dc563b2d318ea3f0606a.png",
+    "static/media/CV Luciano.pdf": "/static/media/CV Luciano.541d24e315039207ffa7.pdf",
+    "static/media/portfolio2.jpg": "/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio6.jpg": "/static/media/portfolio6.72d1107e313049cf15a7.jpg",
+    "static/media/portfolio1.jpg": "/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/portfolio4.jpg": "/static/media/portfolio4.6bf60cbb8fe5f7d7af5d.jpg",
+    "static/media/unr_kelson.png": "/static/media/unr_kelson.a26d03e91af503662092.png",
+    "static/media/unr_lialeb.png": "/static/media/unr_lialeb.90092f52edff1f16ab74.png",
+    "static/media/unr_luciana.png": "/static/media/unr_luciana.5b76270c487143f2a30b.png",
+    "static/media/unr_giverny.png": "/static/media/unr_giverny.7ff3d39a3ed4152e8237.png",
+    "index.html": "/index.html",
+    "main.bd39a0f9.css.map": "/static/css/main.bd39a0f9.css.map",
+    "main.247194f7.js.map": "/static/js/main.247194f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd39a0f9.css",
+    "static/js/main.247194f7.js"
+  ]
+}
